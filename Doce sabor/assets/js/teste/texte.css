@@ -1,0 +1,13 @@
+body{
+    background-color: brown;
+}
+
+
+.imagem{
+    background-image: url(/assets/js/teste/img/Bolos-e-doces-na-Confeitaria-colombo.jpg);
+    background-size: cover;
+color: #fff;
+height: 400px;
+text-align: center;
+padding-top: 150px;
+}
