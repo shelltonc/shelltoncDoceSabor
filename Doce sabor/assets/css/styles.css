@@ -83,3 +83,16 @@ height: 300px;
 border: solid #402620;
 }
 
+.bolo{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    text-align: center;
+    
+   
+    
+}
+
+.descricao{
+    margin: 15px;
+}
